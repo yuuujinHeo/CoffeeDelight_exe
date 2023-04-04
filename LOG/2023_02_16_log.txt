@@ -1,0 +1,35 @@
+
+
+
+2023-02-16 15:12:15 [SYSTEM] Core Program Start
+2023-02-16 15:12:16 [ICE] ERROR : DISCONNECTED 1
+2023-02-16 15:12:16 [ICE] ERROR : DISCONNECTED 2
+2023-02-16 15:12:16 [ROBOT] ERROR : DISCONNECTED
+2023-02-16 15:12:16 [SYSTEM] PLATFORM PHYSICALLY OPENED NOW
+2023-02-16 15:12:16 [OUTLET] GoPosition  : target(0) spin_door(0) position(0)
+2023-02-16 15:12:18 [OUTLET] GoPosition  : target(0) spin_door(1) position(-143000)
+2023-02-16 15:12:18 [BARCODE] SERIAL COM1 OPEN SUCCESS!
+2023-02-16 15:12:18 [ICE] SERIAL COM3 OPEN SUCCESS!
+2023-02-16 15:12:18 [ICE] SERIAL COM4 OPEN SUCCESS!
+2023-02-16 15:12:20 [OUTLET] GoPosition  : target(0) spin_door(1) position(-143000)
+2023-02-16 15:12:21 [OUTLET] GoPosition  : target(0) spin_door(1) position(-143000)
+2023-02-16 15:12:24 [OUTLET] GoPosition  : target(0) spin_door(1) position(-143000)
+2023-02-16 15:12:25 [OUTLET] GoPosition  : target(0) spin_door(1) position(-143000)
+2023-02-16 15:12:27 [OUTLET] GoPosition  : target(0) spin_door(1) position(-143000)
+2023-02-16 15:12:29 [OUTLET] GoPosition  : target(0) spin_door(1) position(-143000)
+2023-02-16 15:12:31 [OUTLET] GoPosition  : target(0) spin_door(1) position(-143000)
+2023-02-16 15:12:32 [OUTLET] GoPosition  : target(0) spin_door(1) position(-143000)
+2023-02-16 15:12:34 [OUTLET] GoPosition  : target(0) spin_door(1) position(-143000)
+2023-02-16 15:12:36 [OUTLET] GoPosition  : target(0) spin_door(1) position(-143000)
+2023-02-16 15:12:38 [OUTLET] GoPosition  : target(0) spin_door(1) position(-143000)
+2023-02-16 15:12:39 [OUTLET] GoPosition  : target(0) spin_door(1) position(-143000)
+2023-02-16 15:12:41 [OUTLET] GoPosition  : target(0) spin_door(1) position(-143000)
+2023-02-16 15:12:43 [OUTLET] GoPosition  : target(0) spin_door(1) position(-143000)
+2023-02-16 15:12:45 [OUTLET] GoPosition  : target(0) spin_door(1) position(-143000)
+2023-02-16 15:12:46 [OUTLET] GoPosition  : target(0) spin_door(1) position(-143000)
+2023-02-16 15:12:48 [OUTLET] GoPosition  : target(0) spin_door(1) position(-143000)
+2023-02-16 15:12:50 [OUTLET] GoPosition  : target(0) spin_door(1) position(-143000)
+2023-02-16 15:12:52 [OUTLET] GoPosition  : target(0) spin_door(1) position(-143000)
+2023-02-16 15:12:53 [OUTLET] GoPosition  : target(0) spin_door(1) position(-143000)
+2023-02-16 15:12:56 [OUTLET] GoPosition  : target(0) spin_door(1) position(-143000)
+2023-02-16 15:12:56 [USER INPUT] EXIT : TERMINATE PROGRAM
